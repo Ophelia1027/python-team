@@ -8,7 +8,6 @@ from kivy.core.window import Window
 from kivy.clock import Clock
 import random
 
-# 註冊中文字型（請確認字型路徑正確）
 LabelBase.register(name="MSJhengHei", fn_regular="C:/Windows/Fonts/msjh.ttc")
 
 class ChatBotUI(BoxLayout):

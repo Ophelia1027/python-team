@@ -1,0 +1,15 @@
+- 蔡宜潔（Ophelia）
+  專案發想與命名（Loney 陪伴概念）
+  App UI 設計與開發（Kivy 架構）
+  聊天邏輯實作（Loney 的回應風格設計）
+  PPT 製作與腳本撰寫（報告用）
+  整合上傳 GitHub 與數位學園
+
+- 巫梓彥
+ 負責上台簡報與口頭報告
+ 即時回應老師與同學提問
+ 整理報告流程與呈現節奏
+
+ https://kivy.org/doc/stable/
+ UI 設計靈感來源：Pinterest 與心理健康類 App 介面
+ Python 官方文件與 Stack Overflow 技術解答
